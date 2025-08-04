@@ -7,7 +7,7 @@ School of Computer Science and Informatics, Cardiff University
 School of Engineering, Cardiff University
 
 <p align="center">
-  <img src="resources/Architecture7"  width="750"/>
+  <img src="resources/Architecture7.png"  width="750"/>
 </p>
 
 ## DVMD dataset
