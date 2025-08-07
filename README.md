@@ -13,14 +13,23 @@ School of Engineering, Cardiff University
 ## Requirement
 
 python==3.8.17
-cuda==11.1   
+
+cuda==11.1
+
 cudnn==8.1.0.77
-torch==1.9.0+cu111   
-timm==0.9.6   
-transformers==4.30.2   
+
+torch==1.9.0+cu111
+
+timm==0.9.6
+
+transformers==4.30.2 
+
 pytorch==1.8.2
+
 torchvision==0.10.0+cu111
-medpy==0.4.0  
+
+medpy==0.4.0
+
 einops==0.6.1
 
 
