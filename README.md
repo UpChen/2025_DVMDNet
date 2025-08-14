@@ -60,7 +60,7 @@ einops==0.6.1
 
    Download the weight of a well-trained DVMDNet on DVMD dataset ([model weights](https://drive.google.com/drive/folders/1qNAAlUL6cQSXKa73rzCPLVba0ETmDz0g?usp=drive_link)).
 
-   After training, update the checkpoint file path in the infer.py script. Then, test the trained model using:
+   Or after training, update the checkpoint file path in the infer.py script. Then, test the trained model using:
    
    ```shell
    python infer.py
