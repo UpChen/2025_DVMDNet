@@ -77,7 +77,7 @@ def main():
 
                 query_index = 0
 
-            _, _, _, query_final, _ = net(exemplar, query, other, exemplar_depth, query_depth, other_depth)
+            _, query_final, _ = net(exemplar, query, other, exemplar_depth, query_depth, other_depth)
             res = (query_final.data > 0).to(torch.float32).squeeze(0)
 
             query_index1 = str(query_index).zfill(5)
